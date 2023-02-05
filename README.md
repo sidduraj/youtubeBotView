@@ -28,6 +28,7 @@ YouTube Bot is an easy to use simple python script that makes use of selenium to
 - Add the drivers to the path and you are done!!
 
 ## Usage
+- navigate to Chrome folder, open terminal, run `python YouTubeBot`
 - Add the URL of your YouTube video and hit Submit.
 - Add the duration (specify how much time the script should "watch" your video. Format is HH:MM:SS)
 - Add the number of times you want to execute the script (mention inf for infinite).
